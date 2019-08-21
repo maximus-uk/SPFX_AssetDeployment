@@ -39,10 +39,10 @@
     <ListInstance 
             CustomSchema="schema.xml"
             FeatureId="00bfea71-de22-43b2-a848-c05709900100"
-            Title="SPFx List" 
-            Description="SPFx List"
+            Title="metrotiles-test" 
+            Description="test metrotiles list"
             TemplateType="100"
-            Url="Lists/SPFxList">
+            Url="Lists/metrotiles-test">
     </ListInstance>
 
 </Elements>
