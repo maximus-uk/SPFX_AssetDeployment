@@ -1,6 +1,6 @@
 ## asset-deployment-webpart
 
-This is where you include your WebPart documentation.
+This is from a Microsoft SPFx Tutorial.  Was built on an older SPFx version, so will not work in the current v1.18
 
 ### Building the code
 
